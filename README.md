@@ -1,2 +1,2 @@
 # Pybrush
-Pybrush is a python drawing application that allows to draw onto a canvas. 
+Pybrush is a python based drawing application that allows users to draw onto a blank canvas.
